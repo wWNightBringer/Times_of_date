@@ -1,4 +1,4 @@
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/wWNightBringer/Times_of_date/21?token=)](https://circleci.com/gh/wWNightBringer/Times_of_date/21)
+[![CircleCI](https://circleci.com/gh/wWNightBringer/Times_of_date.svg?style=svg)](https://circleci.com/gh/wWNightBringer/Times_of_date)
 # Configuring CircleCI
 This document is a reference for the CircleCI 2.x configuration keys that are used in the config.yml file.
 The presence of a .circleci/config.yml file in your CircleCI-authorized repository 
