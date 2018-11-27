@@ -10,4 +10,4 @@ infrastructure in branches that do not contain .circleci/config.yml.
 # Build
 https://circleci.com/gh/wWNightBringer/Times_of_date/9
 
-![] (./images/screenshot_build.png)
+![](./images/screenshot_build.png)
