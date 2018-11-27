@@ -1,4 +1,4 @@
-[![Build Status](https://circleci.com/workflow-run/a2717e1e-326f-4564-adef-e702be70955e)]
+[![Build Status](https://circleci.com/gh/wWNightBringer/Times_of_date/16)]
 # Configuring CircleCI
 This document is a reference for the CircleCI 2.x configuration keys that are used in the config.yml file.
 The presence of a .circleci/config.yml file in your CircleCI-authorized repository 
